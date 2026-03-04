@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @singirutempest-stack
+/src/backend/database.py      @singirutempest-stack
+/src/backend/routers/auth.py  @singirutempest-stack
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @singirutempest-stack
